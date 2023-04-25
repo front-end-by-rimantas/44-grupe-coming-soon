@@ -20,6 +20,9 @@
     margin: 0 calc(50% - 31rem);
 }
 .container .column {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
     width: 50%;
 }
 .column.right-column {
