@@ -19,6 +19,16 @@
     text-transform: uppercase;
     text-align: center;
 }
+
+@keyframes slinkis {
+    0% {
+        margin-left: 0;
+    }
+    100% {
+        margin-left: -12ch;
+    }
+}
+
 .main-description {
     font-size: 1.3rem;
     text-align: center;
