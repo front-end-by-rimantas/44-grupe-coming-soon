@@ -104,3 +104,9 @@ footer > .row-short a {
         display: block;
     }
 }
+
+@media (max-width: 22rem) {
+    .main-title {
+        font-size: 3.5rem;
+    }
+}
